@@ -1,0 +1,283 @@
+[
+    [
+        "/Users/jitendra/Documents/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543123306902,
+            "changeTime": 1543123306902,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543123306902,
+            "changeTime": 1543123306902,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1543125113965,
+            "changeTime": 1543125113965,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1543123306902,
+            "changeTime": 1543123306902,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jitendra/Documents/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1543123456785,
+            "changeTime": 1543123456785,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/objects/Account/fields/Geolocation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1543125113922,
+            "changeTime": 1543125113922,
+            "contentHash": "53b4d0ed2a2a81df0f3fc5430aef4cb95ac2fd81"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9585,
+            "modifiedTime": 1543125113929,
+            "changeTime": 1543125113929,
+            "contentHash": "8da3a2e4e2726f6d8314e16293d04be63d5a7e4a"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9585,
+            "modifiedTime": 1543125113937,
+            "changeTime": 1543125113937,
+            "contentHash": "c6ced8d0d1a237bb4de0a95c9354602c0993d676"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9633,
+            "modifiedTime": 1543125113940,
+            "changeTime": 1543125113940,
+            "contentHash": "f2d4ee8ae8e2736caa0b42260527ef31ca335afa"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9633,
+            "modifiedTime": 1543125113944,
+            "changeTime": 1543125113944,
+            "contentHash": "358497af09fdc47898971cdfdda8df83a9394877"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4931,
+            "modifiedTime": 1543125113947,
+            "changeTime": 1543125113947,
+            "contentHash": "fd00fb18357b36e262cb2c945987423041a316d4"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18115,
+            "modifiedTime": 1543125113956,
+            "changeTime": 1543125113956,
+            "contentHash": "cc80a386227ad06687f84c0626a347351f9c1091"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4591,
+            "modifiedTime": 1543125113962,
+            "changeTime": 1543125113962,
+            "contentHash": "63865edf38904dae31d16b7c2d8c6cbf0b9ff771"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4595,
+            "modifiedTime": 1543125113964,
+            "changeTime": 1543125113964,
+            "contentHash": "445129ef277e541a6d74226896c21e3957eb334f"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1543125113965,
+            "changeTime": 1543125113965,
+            "contentHash": "263db13fb4e21bd5272dbfd48b42e8db2e922c9b"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543125113922,
+            "changeTime": 1543125113922,
+            "contentHash": "ce06810b1370ee18db3a024c8e13fe0221159f67"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543125113921,
+            "changeTime": 1543125113921,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543125113921,
+            "changeTime": 1543125113921,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1543125113944,
+            "changeTime": 1543125113944,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1543125113964,
+            "changeTime": 1543125113964,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/jitendra/Documents/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jitendra/Documents/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543125113965,
+            "changeTime": 1543125113965,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
